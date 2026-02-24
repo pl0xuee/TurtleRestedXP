@@ -4,6 +4,8 @@ A small draggable rested XP progress bar for [Turtle WoW](https://turtle-wow.org
 
 ![Interface: 11200](https://img.shields.io/badge/Interface-11200-blue)
 
+<img width="276" height="67" alt="image" src="https://github.com/user-attachments/assets/d8fa5277-bacb-4a42-86b2-bec9e0eeb78a" />
+
 ## Features
 
 - Shows a progress bar with your current rested XP percentage
